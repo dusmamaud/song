@@ -1751,6 +1751,406 @@
       "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813968/addymusictales-24-03-2025-0106_qdshs5.mp3",
       "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742888062/WAUcTkuIYCrurnrHC_yypyriCyf0wPa4_SqSvyiUFixCe1rb0rvzI0LfkoEpGiO3Xr5kWUNsqwvA43wZCg_w544-h544-l90-rj_ndanxc.jpg",
       "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742888062/WAUcTkuIYCrurnrHC_yypyriCyf0wPa4_SqSvyiUFixCe1rb0rvzI0LfkoEpGiO3Xr5kWUNsqwvA43wZCg_w544-h544-l90-rj_ndanxc.jpg"
+    },
+    {
+      "id": 221,
+      "title": "Rang Jo Lagyo",
+      "artist": "Atif Aslam, Shreya Ghoshal & Sachin-Jigar",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813852/addymusictales-24-03-2025-0064_zmejbn.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742845126/_Ildec60a0FD1hWUNtyn6oYoEw9c6O5QmP2FIXwOMkEdl9Do-vLwTGl-TQTTS2LjN8PthPv3C7DaL18lRw_w544-h544-l90-rj_qcgjwg.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742845126/_Ildec60a0FD1hWUNtyn6oYoEw9c6O5QmP2FIXwOMkEdl9Do-vLwTGl-TQTTS2LjN8PthPv3C7DaL18lRw_w544-h544-l90-rj_qcgjwg.jpg"
+    },
+    {
+      "id": 222,
+      "title": "Apna Naam Du",
+      "artist": "Asees Kaur & Laqshay Kapoor",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813852/addymusictales-24-03-2025-0063_sswpcj.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742891952/ecLFh7PBktDHh0vuMGxO1gL5NtCIxghu6xVVy0gIoKlrUygVcmurtany71slW2pXXjpiVvYVVtiGZTin_w544-h544-l90-rj_zyetj4.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742891952/ecLFh7PBktDHh0vuMGxO1gL5NtCIxghu6xVVy0gIoKlrUygVcmurtany71slW2pXXjpiVvYVVtiGZTin_w544-h544-l90-rj_zyetj4.jpg"
+    },
+    {
+      "id": 223,
+      "title": "Balam Pichkari",
+      "artist": "Pritam, Vishal Dadlani & Shalmali Kholgade",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813852/addymusictales-24-03-2025-0061_jl85pe.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742892028/8WRsPwoMoabdu5ISlf9f7tGGPzd2I7CTaWxc8qd6GYjaEBreC2Yw0KWMId6Y2vUTqSkt7GdlUi4NAXyf_w544-h544-l90-rj_hjroxe.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742892028/8WRsPwoMoabdu5ISlf9f7tGGPzd2I7CTaWxc8qd6GYjaEBreC2Yw0KWMId6Y2vUTqSkt7GdlUi4NAXyf_w544-h544-l90-rj_hjroxe.jpg"
+    },
+    {
+      "id": 224,
+      "title": "Bahara",
+      "artist": "Shreya Ghoshal, Sona Mohapatra & Vishal & Shekhar",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813851/addymusictales-24-03-2025-0060_cmp1vc.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742892101/WLCy6Z_QkIzOtEKkjN1DQmURaOkkwM8jc242pXNk3S8pAdXjDKvD8IIH2B4sOX0P-0hsMrLo2MmzvfwS_w544-h544-l90-rj_cmihhj.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742892101/WLCy6Z_QkIzOtEKkjN1DQmURaOkkwM8jc242pXNk3S8pAdXjDKvD8IIH2B4sOX0P-0hsMrLo2MmzvfwS_w544-h544-l90-rj_cmihhj.jpg"
+    },
+    {
+      "id": 225,
+      "title": "Hookah Bar",
+      "artist": "Hookah Bar Himesh Reshammiya , Vineet Singh & Aman Trikha",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813850/addymusictales-24-03-2025-0058_x8nw5g.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742892174/BWz92UAVmn-0VPs-CTmkVzyU19ZBSJM8bf3UEQARRxtw6vwg8rHd5I9Q2b0K40155dCfXG59vemovq73rA_w544-h544-l90-rj_vttbf6.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742892174/BWz92UAVmn-0VPs-CTmkVzyU19ZBSJM8bf3UEQARRxtw6vwg8rHd5I9Q2b0K40155dCfXG59vemovq73rA_w544-h544-l90-rj_vttbf6.jpg"
+    },
+    {
+      "id": 226,
+      "title": "Khamoshiyan",
+      "artist": "Jeet Gannguli , Arijit Singh & Rashmi Virag",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813850/addymusictales-24-03-2025-0057_lyworn.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742892238/c34BbkFiR_OsM6n4n0pnEl4JYcVG_dy21PlMT0wTnpbZCyv_bM4aG2_gWcNTKbGvSQYK_nCKh_C4heS8_w544-h544-l90-rj_uxvh0m.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742892238/c34BbkFiR_OsM6n4n0pnEl4JYcVG_dy21PlMT0wTnpbZCyv_bM4aG2_gWcNTKbGvSQYK_nCKh_C4heS8_w544-h544-l90-rj_uxvh0m.jpg"
+    },
+    {
+      "id": 227,
+      "title": "Untitled",
+      "artist": "Xo Music",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813850/addymusictales-24-03-2025-0055_jtqewu.mp3",
+      "cover": "https://i.pinimg.com/736x/80/1d/48/801d485fab349427b5ad2a2a3a0818db.jpg",
+      "background": "https://i.pinimg.com/736x/80/1d/48/801d485fab349427b5ad2a2a3a0818db.jpg"
+    },
+    {
+      "id": 228,
+      "title": "Untitled",
+      "artist": "Xo Music",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813850/addymusictales-24-03-2025-0053_sj0y9l.mp3",
+      "cover": "https://i.pinimg.com/736x/49/4e/bb/494ebbef6546e0a651b32a6516ab6c4f.jpg",
+      "background": "https://i.pinimg.com/736x/49/4e/bb/494ebbef6546e0a651b32a6516ab6c4f.jpg"
+    },
+    {
+      "id": 229,
+      "title": "Dil Cheez Tujhe Dedi",
+      "artist": "Arijit Singh & Ankit Tiwari",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813849/addymusictales-24-03-2025-0056_p5ln4g.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742892539/OihMZS6JgOQCweJONbB_nKmVBB8rbZwehoLEQGMxRr1FlkfYX5KMb8vrGOEo5ATMZ62TTKhv46c0qk1F_w544-h544-l90-rj_vrs5wi.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742892539/OihMZS6JgOQCweJONbB_nKmVBB8rbZwehoLEQGMxRr1FlkfYX5KMb8vrGOEo5ATMZ62TTKhv46c0qk1F_w544-h544-l90-rj_vrs5wi.jpg"
+    },
+    {
+      "id": 230,
+      "title": "Untitled",
+      "artist": "Xo Music",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813849/addymusictales-24-03-2025-0051_gcjrga.mp3",
+      "cover": "https://i.pinimg.com/736x/a8/4d/de/a84ddec23e3e7348e821d6df1041f72f.jpg",
+      "background": "https://i.pinimg.com/736x/a8/4d/de/a84ddec23e3e7348e821d6df1041f72f.jpg"
+    },
+    {
+      "id": 231,
+      "title": "Galliyan",
+      "artist": "Ankit Tiwari",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813849/addymusictales-24-03-2025-0054_l1vym4.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742843321/dxV5Giyiw0e-0ct5Hsq_8RvxypA19fFo51GjPi1gRqhfAF9LmlfU7QKQPhB09iSXAr-DXx4BGcJLUqmT_w544-h544-l90-rj_t5eucf.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742843321/dxV5Giyiw0e-0ct5Hsq_8RvxypA19fFo51GjPi1gRqhfAF9LmlfU7QKQPhB09iSXAr-DXx4BGcJLUqmT_w544-h544-l90-rj_t5eucf.jpg"
+    },
+    {
+      "id": 232,
+      "title": "Tu Hai Ki Nahi",
+      "artist": "Ankit Tiwari",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813848/addymusictales-24-03-2025-0052_fvm4p1.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742892747/4_0KWSAlt5p6Lyu_u-HCwNMF2rtD7RyNh1h3XEj9imPcU6cWU5yVcixk7Db7kPKLCel7_gZjXO_rYjCU_w544-h544-l90-rj_xbysed.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742892747/4_0KWSAlt5p6Lyu_u-HCwNMF2rtD7RyNh1h3XEj9imPcU6cWU5yVcixk7Db7kPKLCel7_gZjXO_rYjCU_w544-h544-l90-rj_xbysed.jpg"
+    },
+    {
+      "id": 233,
+      "title": "Sanam Teri Kasam",
+      "artist": "Ankit Tiwari, Palak Muchhal",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813842/addymusictales-24-03-2025-0050_c90lxp.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742840965/Z7zY2Q_O83dFJE98MVLlejkvy4xnJsDqEBvrms5Qi0Luj81313fdwAaZ59FKwdFxZAiMawG21_UHjJaClw_w544-h544-l90-rj_n5eog2.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742840965/Z7zY2Q_O83dFJE98MVLlejkvy4xnJsDqEBvrms5Qi0Luj81313fdwAaZ59FKwdFxZAiMawG21_UHjJaClw_w544-h544-l90-rj_n5eog2.jpg"
+    },
+    {
+      "id": 234,
+      "title": "Untitled",
+      "artist": "Xo Music",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813841/addymusictales-24-03-2025-0049_mcmpbz.mp3",
+      "cover": "https://i.pinimg.com/736x/62/74/f3/6274f31507a3b01880de4d7bb248c31e.jpg",
+      "background": "https://i.pinimg.com/736x/62/74/f3/6274f31507a3b01880de4d7bb248c31e.jpg"
+    },
+    {
+      "id": 235,
+      "title": "Sunn Raha Hai",
+      "artist": "Ankit Tiwari",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813841/addymusictales-24-03-2025-0048_tlx3fy.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742883164/3q33amH9hzn1dO8IeAX7TMb1QtEVfvVbqd2eSCaelOXNVmfMjbpDYdqD2HSiXtNP6i5Es7oynkWU2NfOXA_w544-h544-l90-rj_ko95tz.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742883164/3q33amH9hzn1dO8IeAX7TMb1QtEVfvVbqd2eSCaelOXNVmfMjbpDYdqD2HSiXtNP6i5Es7oynkWU2NfOXA_w544-h544-l90-rj_ko95tz.jpg"
+    },
+    {
+      "id": 236,
+      "title": "Untitled",
+      "artist": "Xo Music",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813840/addymusictales-24-03-2025-0047_z7yqda.mp3",
+      "cover": "https://i.pinimg.com/736x/1c/54/b5/1c54b5859d8e696d1575b2bd66967582.jpg",
+      "background": "https://i.pinimg.com/736x/1c/54/b5/1c54b5859d8e696d1575b2bd66967582.jpg"
+    },
+    {
+      "id": 237,
+      "title": "Untitled",
+      "artist": "Xo Music",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813840/addymusictales-24-03-2025-0045_k2xue5.mp3",
+      "cover": "https://i.pinimg.com/736x/15/d3/6d/15d36d44fbc743ac7677508c1fab141f.jpg",
+      "background": "https://i.pinimg.com/736x/15/d3/6d/15d36d44fbc743ac7677508c1fab141f.jpg"
+    },
+    {
+      "id": 238,
+      "title": "Untitled",
+      "artist": "Tulsi Kumar",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813840/addymusictales-24-03-2025-0046_h0ulum.mp3",
+      "cover": "https://i.pinimg.com/736x/d2/42/43/d242438bd47c88c117d5b7ce7217068f.jpg",
+      "background": "https://i.pinimg.com/736x/d2/42/43/d242438bd47c88c117d5b7ce7217068f.jpg"
+    },
+    {
+      "id": 239,
+      "title": "Jeene Laga Hoon",
+      "artist": "Atif Aslam & Shreya Ghoshal",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813839/addymusictales-24-03-2025-0040_lxlagr.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742845126/_Ildec60a0FD1hWUNtyn6oYoEw9c6O5QmP2FIXwOMkEdl9Do-vLwTGl-TQTTS2LjN8PthPv3C7DaL18lRw_w544-h544-l90-rj_qcgjwg.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742845126/_Ildec60a0FD1hWUNtyn6oYoEw9c6O5QmP2FIXwOMkEdl9Do-vLwTGl-TQTTS2LjN8PthPv3C7DaL18lRw_w544-h544-l90-rj_qcgjwg.jpg"
+    },
+    {
+      "id": 240,
+      "title": "Sunny Sunny",
+      "artist": "Yo Yo Honey Singh & Neha Kakkar",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813839/addymusictales-24-03-2025-0044_d95rkc.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742883393/MUzRb1IAibIh-O3lK0MVkFlvIu4vZ98TDUpVQoofvKQR0nnx6i95kKzzFj550hJKfcgKoyEQKZozUn2n_w544-h544-l90-rj_iiv5nh.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742883393/MUzRb1IAibIh-O3lK0MVkFlvIu4vZ98TDUpVQoofvKQR0nnx6i95kKzzFj550hJKfcgKoyEQKZozUn2n_w544-h544-l90-rj_iiv5nh.jpg"
+    },
+    {
+      "id": 241,
+      "title": "Untitled",
+      "artist": "Xo Music",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813839/addymusictales-24-03-2025-0042_pwewav.mp3",
+      "cover": "https://i.pinimg.com/736x/45/28/a1/4528a1eb4d06cc953e9dcc4a93e97771.jpg",
+      "background": "https://i.pinimg.com/736x/45/28/a1/4528a1eb4d06cc953e9dcc4a93e97771.jpg"
+    },
+    {
+      "id": 242,
+      "title": "Abcd -Yaariyan",
+      "artist": "Benny Dayal , Shefali Alvares & Yo Yo Honey Singh",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813839/addymusictales-24-03-2025-0043_uy9s0u.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742883393/MUzRb1IAibIh-O3lK0MVkFlvIu4vZ98TDUpVQoofvKQR0nnx6i95kKzzFj550hJKfcgKoyEQKZozUn2n_w544-h544-l90-rj_iiv5nh.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742883393/MUzRb1IAibIh-O3lK0MVkFlvIu4vZ98TDUpVQoofvKQR0nnx6i95kKzzFj550hJKfcgKoyEQKZozUn2n_w544-h544-l90-rj_iiv5nh.jpg"
+    },
+    {
+      "id": 243,
+      "title": "Tu Jo Mila",
+      "artist": "Xo Music",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813838/addymusictales-24-03-2025-0041_cfmgad.mp3",
+      "cover": "https://i.pinimg.com/736x/0b/0a/ad/0b0aad3b18fe033b7e5e4ea4d4959556.jpg",
+      "background": "https://i.pinimg.com/736x/0b/0a/ad/0b0aad3b18fe033b7e5e4ea4d4959556.jpg"
+    },
+    {
+      "id": 244,
+      "title": "Lutt Putt Gaya",
+      "artist": "Arijit Singh",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813838/addymusictales-24-03-2025-0037_wsvk1u.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742893503/olTad2rSFdiV02kmWaC_xYlKkZiB6nV7279LAf1r6uar7rcyojJ4WoCc9A6kY9Cf5ecp-yUk0-NGy1c_w544-h544-l90-rj_svoiax.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742893503/olTad2rSFdiV02kmWaC_xYlKkZiB6nV7279LAf1r6uar7rcyojJ4WoCc9A6kY9Cf5ecp-yUk0-NGy1c_w544-h544-l90-rj_svoiax.jpg"
+    },
+    {
+      "id": 245,
+      "title": "Tum Se",
+      "artist": "Sachin-Jigar, Raghav Chaitanya, Varun Jain & Indraneel",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813838/addymusictales-24-03-2025-0039_jf34fj.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742893599/FMv7FYqkppHAM9Sn43aneV3eql6nCHldW0OO4ZvoimckHHKwM4Io8NWCdLjarWnh-ecC_LrdpYs3PJ_v_w544-h544-l90-rj_gdwc5m.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742893599/FMv7FYqkppHAM9Sn43aneV3eql6nCHldW0OO4ZvoimckHHKwM4Io8NWCdLjarWnh-ecC_LrdpYs3PJ_v_w544-h544-l90-rj_gdwc5m.jpg"
+    },
+    {
+      "id": 246,
+      "title": "Deewana Kar Raha Hai",
+      "artist": "Javed Ali",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813837/addymusictales-24-03-2025-0035_zwatmi.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742893709/UfRF3j-zxjaUqR8aV3CLH1cLT6FbBtV4Ih0x_Pv0aHgBEiv6oRKUUqRnrvMP14G3mjJ8IzhFdqnkk7XQTw_w544-h544-l90-rj_jcoadl.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742893709/UfRF3j-zxjaUqR8aV3CLH1cLT6FbBtV4Ih0x_Pv0aHgBEiv6oRKUUqRnrvMP14G3mjJ8IzhFdqnkk7XQTw_w544-h544-l90-rj_jcoadl.jpg"
+    },
+    {
+      "id": 247,
+      "title": "Sanu Ek Pal Chain",
+      "artist": "Rahat Fateh Ali Khan",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813837/addymusictales-24-03-2025-0036_kdxqc0.mp3",
+      "cover": "https://lh3.googleusercontent.com/iGKovdC9fTVQ9DxeqbBYO_kr7jdJp23efFPl6SjtsCeOwfyQ_xGl8nLrKMa36KV6iLsYtPxfslwfFV0j=w544-h544-l90-rj",
+      "background": "https://lh3.googleusercontent.com/iGKovdC9fTVQ9DxeqbBYO_kr7jdJp23efFPl6SjtsCeOwfyQ_xGl8nLrKMa36KV6iLsYtPxfslwfFV0j=w544-h544-l90-rj"
+    },
+    {
+      "id": 248,
+      "title": "Lag Ja Gale",
+      "artist": "Rahat Fateh Ali Khan & Sachin-Jigar",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813837/addymusictales-24-03-2025-0034_bgdrif.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742893946/doqqxCz124P_jfh0oR7AIoj7jiu4QJRwzqBALd486ZLvUOAiqeDAi0Rcs2zBQNt_UY50h9Hg6PMQadIq_w544-h544-l90-rj_l70ux7.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742893946/doqqxCz124P_jfh0oR7AIoj7jiu4QJRwzqBALd486ZLvUOAiqeDAi0Rcs2zBQNt_UY50h9Hg6PMQadIq_w544-h544-l90-rj_l70ux7.jpg"
+    },
+    {
+      "id": 249,
+      "title": "Untitled",
+      "artist": "Xo Music",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813836/addymusictales-24-03-2025-0033_jnocjw.mp3",
+      "cover": "https://i.pinimg.com/736x/be/9f/ef/be9fefa3c22109fa0c7df1445fad8689.jpg",
+      "background": "https://i.pinimg.com/736x/be/9f/ef/be9fefa3c22109fa0c7df1445fad8689.jpg"
+    },
+    {
+      "id": 250,
+      "title": "Guitar Sikhda",
+      "artist": "Jassie Gill",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813835/addymusictales-24-03-2025-0030_bkxmfu.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894088/3Jl3JGVjwzWZubcL5BtwVmWigQ3BZm3Bj0HGXXneiqQY-f-MgHwOTwSkZtcSas_ZYQfHycoKZVE60seZvQ_w544-h544-l90-rj_j3ufyi.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894088/3Jl3JGVjwzWZubcL5BtwVmWigQ3BZm3Bj0HGXXneiqQY-f-MgHwOTwSkZtcSas_ZYQfHycoKZVE60seZvQ_w544-h544-l90-rj_j3ufyi.jpg"
+    },
+    {
+      "id": 251,
+      "title": "Hosanna",
+      "artist": "A.R. Rahman, Leon D'souza & Suzanne D'Mello",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813835/addymusictales-24-03-2025-0031_bos6e7.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742890444/NrMn_1tli823wSgf-_Fn7zlpEPIWri9XGp0VCukZwukli9k8JsnJfr_MK6hzFNi9Vr-VPNY64DgA3_CjWg_w544-h544-l90-rj_qmoqcn.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742890444/NrMn_1tli823wSgf-_Fn7zlpEPIWri9XGp0VCukZwukli9k8JsnJfr_MK6hzFNi9Vr-VPNY64DgA3_CjWg_w544-h544-l90-rj_qmoqcn.jpg"
+    },
+    {
+      "id": 252,
+      "title": "Prada",
+      "artist": "Jass Manak",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813835/addymusictales-24-03-2025-0029_v7wbov.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894270/4N8eMbHV8-TKNzBX1XLJy-CcfBO0YEcAfMOvL9wB0o9jVDxtuVG_RXL1-ue55GnVUkVA3O9AvEjNRvY_w544-h544-l90-rj_pyxu7c.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894270/4N8eMbHV8-TKNzBX1XLJy-CcfBO0YEcAfMOvL9wB0o9jVDxtuVG_RXL1-ue55GnVUkVA3O9AvEjNRvY_w544-h544-l90-rj_pyxu7c.jpg"
+    },
+    {
+      "id": 253,
+      "title": "Laare",
+      "artist": "Maninder Buttar & Jaani",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813834/addymusictales-24-03-2025-0023_wppohx.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894332/mx9ysnIX_E5wxBSzKFD3wVsZO_P01g2EKehJXCp0gJ4cMWWf5LbgV9b6OkuxQT-WSOCuRZTjrwHQzY0ZzA_w544-h544-l90-rj_rqbw1c.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894332/mx9ysnIX_E5wxBSzKFD3wVsZO_P01g2EKehJXCp0gJ4cMWWf5LbgV9b6OkuxQT-WSOCuRZTjrwHQzY0ZzA_w544-h544-l90-rj_rqbw1c.jpg"
+    },
+    {
+      "id": 254,
+      "title": "Backbone",
+      "artist": "Harrdy Sandhu  &  Jaani",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813833/addymusictales-24-03-2025-0028_ifpxz7.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894435/R8Z31ueJ--00knJw8dYig6-pTWjLzNRS3-Sd6cbeJNaFOPhnbeEuLyGUjZ-84aJpnr06jPnzhFrLZxQ_w544-h544-l90-rj_i4slu6.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894435/R8Z31ueJ--00knJw8dYig6-pTWjLzNRS3-Sd6cbeJNaFOPhnbeEuLyGUjZ-84aJpnr06jPnzhFrLZxQ_w544-h544-l90-rj_i4slu6.jpg"
+    },
+    {
+      "id": 255,
+      "title": "Jatti da Crush",
+      "artist": "Kay Vee Singh",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813833/addymusictales-24-03-2025-0027_d1kx1j.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894496/ZhACdLi0X8x-dGWTJY2098Y0ntSEkBUr83Wn5vJuZHZtH-VttEnTU3H7Pr56EosH47LeWUtu0A7cWXDV_w544-h544-l90-rj_yut1gn.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894496/ZhACdLi0X8x-dGWTJY2098Y0ntSEkBUr83Wn5vJuZHZtH-VttEnTU3H7Pr56EosH47LeWUtu0A7cWXDV_w544-h544-l90-rj_yut1gn.jpg"
+    },
+    {
+      "id": 256,
+      "title": "Laung Laachi Title Track",
+      "artist": "Mannat Noor",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813833/addymusictales-24-03-2025-0026_mhtjmv.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894708/QsYO9vydCB-eNXyysn5gaO5a4obSIsW-fzvYM_Bt9OObi2QqSKJQhrHSt9GbCgY4UwD1jP_E9cVLkvdX_w544-h544-l90-rj_gim6ft.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894708/QsYO9vydCB-eNXyysn5gaO5a4obSIsW-fzvYM_Bt9OObi2QqSKJQhrHSt9GbCgY4UwD1jP_E9cVLkvdX_w544-h544-l90-rj_gim6ft.jpg"
+    },
+    {
+      "id": 257,
+      "title": "Nira Ishq",
+      "artist": "Guri",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813833/addymusictales-24-03-2025-0024_bwb9l7.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894835/AJiwAZWqeMOvGTRGfubLjlXe8bR76BAhjgncocr_2lL-Etsr6ortQ8kx4w6XsGfUJAP5uXVlRf9rI_nU_w544-h544-l90-rj_doxgzj.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894835/AJiwAZWqeMOvGTRGfubLjlXe8bR76BAhjgncocr_2lL-Etsr6ortQ8kx4w6XsGfUJAP5uXVlRf9rI_nU_w544-h544-l90-rj_doxgzj.jpg"
+    },
+    {
+      "id": 258,
+      "title": "Lehanga",
+      "artist": "Jass Manak",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813832/addymusictales-24-03-2025-0022_ax4lht.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894887/GWFd0vTTmF3DuE0H4wR1mML_u62ojVx97gfvPh8qu7SsoxhjulnBPa0qA88Vr0KIg2Q2x4HBJFjzNNTa_w544-h544-l90-rj_trfns8.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894887/GWFd0vTTmF3DuE0H4wR1mML_u62ojVx97gfvPh8qu7SsoxhjulnBPa0qA88Vr0KIg2Q2x4HBJFjzNNTa_w544-h544-l90-rj_trfns8.jpg"
+    },
+    {
+      "id": 259,
+      "title": "Waalian",
+      "artist": "Harnoor & Gifty",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813832/addymusictales-24-03-2025-0025_q7dzy1.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742883252/rXQNgaIg0EBIWyqtRSIoXJ-trofql7fjJ5FAanfnM22g7A7RIF1z1PKh8RgYA2gSPwhEf_gxlJGvPsoh_w544-h544-l90-rj_peuclc.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742883252/rXQNgaIg0EBIWyqtRSIoXJ-trofql7fjJ5FAanfnM22g7A7RIF1z1PKh8RgYA2gSPwhEf_gxlJGvPsoh_w544-h544-l90-rj_peuclc.jpg"
+    },
+    {
+      "id": 260,
+      "title": "Sakhiyaan",
+      "artist": "Maninder Buttar",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813831/addymusictales-24-03-2025-0021_xsczqe.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894992/T-S-3tijjAkJUJ3a-8oKeZiGhf_-lYzYAEcGOBJrq04I3x4OOTM9eLMXN0AZFYG345q95qua2B34hbyJ_w544-h544-l90-rj_yu1i94.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742894992/T-S-3tijjAkJUJ3a-8oKeZiGhf_-lYzYAEcGOBJrq04I3x4OOTM9eLMXN0AZFYG345q95qua2B34hbyJ_w544-h544-l90-rj_yu1i94.jpg"
+    },
+    {
+      "id": 261,
+      "title": "Baarish Ban Jaana",
+      "artist": "Payal Dev & Stebin Ben",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813831/addymusictales-24-03-2025-0020_cgaqzp.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742895091/Sbgc26eHHXzcrv6cd_mXx8jrBq5Hd3D2XuLUX-G2O67T8qa8swNCgZ7OHxSf50RQZQYIouww4kTOk5Q_w544-h544-l90-rj_r0w3kn.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742895091/Sbgc26eHHXzcrv6cd_mXx8jrBq5Hd3D2XuLUX-G2O67T8qa8swNCgZ7OHxSf50RQZQYIouww4kTOk5Q_w544-h544-l90-rj_r0w3kn.jpg"
+    },
+    {
+      "id": 262,
+      "title": "Halki Si Barsaat",
+      "artist": "Saaj Bhatt",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813830/addymusictales-24-03-2025-0019_qbx38o.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742895186/cwFlkIlosfS1a_viyRjYNZPoy9nsxlJqfP3JH06adCrznkURaNZJuoi8dMROxvb72pZzJqr9BXlrK77i_w544-h544-l90-rj_im6dgy.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742895186/cwFlkIlosfS1a_viyRjYNZPoy9nsxlJqfP3JH06adCrznkURaNZJuoi8dMROxvb72pZzJqr9BXlrK77i_w544-h544-l90-rj_im6dgy.jpg"
+    },
+    {
+      "id": 263,
+      "title": "Mitti Di Khushboo",
+      "artist": "Ayushmann Khurrana",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813830/addymusictales-24-03-2025-0017_j1mfnm.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742895297/5Rn8Z-u_IKd9D8dHv_3W4QROQdxAo0S0oq8WrchxUxVpLmx5KYQUk7l2M6ax1FWi6ZmzOjFmSNC9Rlwp_w544-h544-l90-rj_ogbuoj.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742895297/5Rn8Z-u_IKd9D8dHv_3W4QROQdxAo0S0oq8WrchxUxVpLmx5KYQUk7l2M6ax1FWi6ZmzOjFmSNC9Rlwp_w544-h544-l90-rj_ogbuoj.jpg"
+    },
+    {
+      "id": 264,
+      "title": "Baarish",
+      "artist": "Mohammed Irfan & Gajendra Verma",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813829/addymusictales-24-03-2025-0018_u4vi6a.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742891390/MUzRb1IAibIh-O3lK0MVkFlvIu4vZ98TDUpVQoofvKQR0nnx6i95kKzzFj550hJKfcgKoyEQKZozUn2n_w544-h544-l90-rj_a5q9lr.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742891390/MUzRb1IAibIh-O3lK0MVkFlvIu4vZ98TDUpVQoofvKQR0nnx6i95kKzzFj550hJKfcgKoyEQKZozUn2n_w544-h544-l90-rj_a5q9lr.jpg"
+    },
+    {
+      "id": 265,
+      "title": "Untitled",
+      "artist": "Xo Music",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813829/96._lyrics-23-03-2025-0002_24032025_afqut9.mp3",
+      "cover": "https://i.pinimg.com/736x/bf/1c/bb/bf1cbb9a00723bfe5e0a13ba021e8902.jpg",
+      "background": "https://i.pinimg.com/736x/bf/1c/bb/bf1cbb9a00723bfe5e0a13ba021e8902.jpg"
+    },
+    {
+      "id": 266,
+      "title": "SAWAN AAYA HAI",
+      "artist": "ARIJIT SINGH & TONY KAKKAR",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813829/addymusictales-24-03-2025-0015_kjllvr.mp3",
+      "cover": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813829/addymusictales-24-03-2025-0016_lu86ma.mp3",
+      "background": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813829/addymusictales-24-03-2025-0016_lu86ma.mp3"
+    },
+    {
+      "id": 267,
+      "title": "KABHI JO BAADAL BARSE",
+      "artist": "Arijit Singh",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813829/addymusictales-24-03-2025-0016_lu86ma.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742895700/PXG0IYDS0-BXb73GsZ079ZLp6qMyCvoZ_45mu0AkyskLgG1c00eJmYlquxHNnQsutqQLp9u37pXNP4MUAA_w544-h544-l90-rj_nibrgs.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742895700/PXG0IYDS0-BXb73GsZ079ZLp6qMyCvoZ_45mu0AkyskLgG1c00eJmYlquxHNnQsutqQLp9u37pXNP4MUAA_w544-h544-l90-rj_nibrgs.jpg"
+    },
+    {
+      "id": 268,
+      "title": "Aaye Ho",
+      "artist": "Xo Music",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813829/adarsh._lyrics-23-03-2025-0001_ul5w6a.mp3",
+      "cover": "https://i.pinimg.com/736x/37/7e/c0/377ec03c8bb8c4324e07f864786a7551.jpg",
+      "background": "https://i.pinimg.com/736x/37/7e/c0/377ec03c8bb8c4324e07f864786a7551.jpg"
+    },
+    {
+      "id": 269,
+      "title": "Tum Se Hi (Instrumental)",
+      "artist": "Pritam",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813828/addymusictales-24-03-2025-0014_ipe1ay.mp3",
+      "cover": "https://i.pinimg.com/736x/33/fa/14/33fa14f251d155e5a5ce81e3d9da8198.jpg",
+      "background": "https://i.pinimg.com/736x/33/fa/14/33fa14f251d155e5a5ce81e3d9da8198.jpg"
+    },
+    {
+      "id": 270,
+      "title": "Tum Hi Ho",
+      "artist": "Arijit Singh",
+      "url": "https://res.cloudinary.com/dujgoxvnd/video/upload/v1742813828/addymusictales-24-03-2025-0013_ogpli5.mp3",
+      "cover": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742883164/3q33amH9hzn1dO8IeAX7TMb1QtEVfvVbqd2eSCaelOXNVmfMjbpDYdqD2HSiXtNP6i5Es7oynkWU2NfOXA_w544-h544-l90-rj_ko95tz.jpg",
+      "background": "https://res.cloudinary.com/ddt9d9lbd/image/upload/v1742883164/3q33amH9hzn1dO8IeAX7TMb1QtEVfvVbqd2eSCaelOXNVmfMjbpDYdqD2HSiXtNP6i5Es7oynkWU2NfOXA_w544-h544-l90-rj_ko95tz.jpg"
     }
   ]
 }
