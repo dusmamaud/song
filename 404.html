@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>404 - Page Not Found</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <style>
+      :root {
+        /* Primary Colors */
+        --primary-color: #1db954;
+        --primary-light: #1ed760;
+        --primary-dark: #189b45;
+
+        /* Text Colors */
+        --text-primary: #ffffff;
+        --text-secondary: rgba(255, 255, 255, 0.7);
+        --text-tertiary: rgba(255, 255, 255, 0.5);
+
+        /* Background Colors */
+        --background: #000000;
+        --background-light: #121212;
+        --background-dark: #030303;
+
+        /* Overlay Colors */
+        --overlay: rgba(0, 0, 0, 0.7);
+        --overlay-light: rgba(0, 0, 0, 0.5);
+
+        /* Accent Colors */
+        --accent-success: #1db954;
+        --accent-error: #ff4f4f;
+        --accent-warning: #ffbd4a;
+
+        /* Gradients */
+        --gradient-primary: linear-gradient(
+          45deg,
+          var(--primary-color),
+          var(--primary-light)
+        );
+        --gradient-dark: linear-gradient(
+          135deg,
+          var(--background),
+          var(--background-light)
+        );
+
+        /* Spacing */
+        --spacing-xs: 0.5rem;
+        --spacing-sm: 1rem;
+        --spacing-md: 1.5rem;
+        --spacing-lg: 2rem;
+        --spacing-xl: 3rem;
+
+        /* Border Radius */
+        --radius-sm: 4px;
+        --radius-md: 8px;
+        --radius-lg: 16px;
+        --radius-xl: 24px;
+        --radius-full: 9999px;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      }
+
+      body {
+        background: var(--background);
+        color: var(--text-primary);
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow-x: hidden;
+        position: relative;
+      }
+
+      body::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: radial-gradient(
+            circle at 10% 20%,
+            rgba(29, 185, 84, 0.1) 0%,
+            transparent 50%
+          ),
+          radial-gradient(
+            circle at 90% 80%,
+            rgba(29, 185, 84, 0.1) 0%,
+            transparent 50%
+          );
+        pointer-events: none;
+      }
+
+      .container {
+        text-align: center;
+        padding: var(--spacing-xl);
+        max-width: 1000px;
+        width: 100%;
+        position: relative;
+        z-index: 1;
+      }
+
+      .glitch-container {
+        position: relative;
+        display: inline-block;
+        animation: floating 3s ease-in-out infinite;
+      }
+
+      .error-code {
+        font-size: 12rem;
+        font-weight: 900;
+        color: var(--primary-color);
+        text-shadow: 2px 2px 0 var(--primary-dark),
+          -2px -2px 0 var(--primary-light);
+        letter-spacing: -5px;
+        position: relative;
+      }
+
+      .error-code::before,
+      .error-code::after {
+        content: "404";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+      }
+
+      .error-code::before {
+        color: var(--primary-light);
+        animation: glitch 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both
+          infinite;
+      }
+
+      .error-code::after {
+        color: var(--primary-dark);
+        animation: glitch 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) reverse both
+          infinite;
+      }
+
+      @keyframes glitch {
+        0% {
+          transform: translate(0);
+        }
+        20% {
+          transform: translate(-2px, 2px);
+        }
+        40% {
+          transform: translate(-2px, -2px);
+        }
+        60% {
+          transform: translate(2px, 2px);
+        }
+        80% {
+          transform: translate(2px, -2px);
+        }
+        100% {
+          transform: translate(0);
+        }
+      }
+
+      @keyframes floating {
+        0%,
+        100% {
+          transform: translateY(0);
+        }
+        50% {
+          transform: translateY(-20px);
+        }
+      }
+
+      .error-message {
+        font-size: 1.8rem;
+        margin: var(--spacing-lg) 0;
+        color: var(--text-secondary);
+        font-weight: 300;
+        opacity: 0;
+        animation: fadeInUp 0.8s ease forwards 0.5s;
+      }
+
+      .search-container {
+        margin: var(--spacing-lg) 0;
+        opacity: 0;
+        animation: fadeInUp 0.8s ease forwards 0.8s;
+      }
+
+      .search-box {
+        padding: var(--spacing-sm) var(--spacing-lg);
+        width: 300px;
+        background: rgba(255, 255, 255, 0.1);
+        border: 2px solid var(--primary-color);
+        border-radius: var(--radius-full);
+        color: var(--text-primary);
+        font-size: 1rem;
+        transition: all 0.3s ease;
+      }
+
+      .search-box:focus {
+        outline: none;
+        box-shadow: 0 0 15px rgba(29, 185, 84, 0.3);
+        width: 350px;
+      }
+
+      .buttons-container {
+        display: flex;
+        gap: var(--spacing-md);
+        justify-content: center;
+        margin: var(--spacing-xl) 0;
+        opacity: 0;
+        animation: fadeInUp 0.8s ease forwards 1s;
+      }
+
+      .button {
+        padding: var(--spacing-sm) var(--spacing-lg);
+        border-radius: var(--radius-full);
+        border: none;
+        cursor: pointer;
+        font-weight: 600;
+        transform-origin: center;
+        transition: all 0.3s ease;
+        display: flex;
+        align-items: center;
+        gap: var(--spacing-xs);
+        text-decoration: none;
+      }
+
+      .primary-button {
+        background: var(--primary-color);
+        color: var(--text-primary);
+      }
+
+      .secondary-button {
+        background: transparent;
+        color: var(--primary-color);
+        border: 2px solid var(--primary-color);
+      }
+
+      .button:hover {
+        transform: scale(1.05);
+        box-shadow: 0 5px 15px rgba(29, 185, 84, 0.3);
+      }
+
+      .developer-section {
+        margin-top: var(--spacing-xl);
+        padding: var(--spacing-xl);
+        background: rgba(255, 255, 255, 0.05);
+        border-radius: var(--radius-lg);
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        opacity: 0;
+        animation: fadeInUp 0.8s ease forwards 1.2s;
+      }
+
+      .profile-pic {
+        width: 160px;
+        height: 160px;
+        border-radius: 50%;
+        margin: 0 auto var(--spacing-md);
+        border: 4px solid var(--primary-color);
+        padding: 5px;
+        background: var(--background);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .profile-pic img {
+        border-radius: 50%;
+        transition: transform 0.5s ease;
+      }
+
+      .profile-pic:hover img {
+        transform: scale(1.1);
+      }
+
+      .dev-name {
+        font-size: 1.8rem;
+        color: var(--primary-color);
+        margin-bottom: var(--spacing-xs);
+      }
+
+      .dev-title {
+        color: var(--text-secondary);
+        font-size: 1.1rem;
+        margin-bottom: var(--spacing-md);
+      }
+
+      .dev-bio {
+        color: var(--text-tertiary);
+        line-height: 1.6;
+        max-width: 600px;
+        margin: 0 auto var(--spacing-lg);
+      }
+
+      .social-links {
+        display: flex;
+        justify-content: center;
+        gap: var(--spacing-md);
+      }
+
+      .social-icon {
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.05);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: var(--text-primary);
+        text-decoration: none;
+        transition: all 0.3s ease;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+      }
+
+      .social-icon:hover {
+        background: var(--primary-color);
+        transform: translateY(-5px);
+        box-shadow: 0 5px 15px rgba(29, 185, 84, 0.3);
+      }
+
+      @keyframes fadeInUp {
+        from {
+          opacity: 0;
+          transform: translateY(20px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      @media (max-width: 768px) {
+        .container {
+          padding: var(--spacing-lg);
+        }
+
+        .error-code {
+          font-size: 8rem;
+        }
+
+        .error-message {
+          font-size: 1.4rem;
+        }
+
+        .search-box {
+          width: 250px;
+        }
+
+        .search-box:focus {
+          width: 280px;
+        }
+
+        .buttons-container {
+          flex-direction: column;
+          gap: var(--spacing-sm);
+        }
+
+        .developer-section {
+          padding: var(--spacing-lg);
+        }
+      }
+
+      @media (max-width: 480px) {
+        .error-code {
+          font-size: 6rem;
+        }
+
+        .error-message {
+          font-size: 1.2rem;
+        }
+
+        .search-box {
+          width: 200px;
+        }
+
+        .search-box:focus {
+          width: 220px;
+        }
+
+        .profile-pic {
+          width: 120px;
+          height: 120px;
+        }
+
+        .dev-name {
+          font-size: 1.5rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="glitch-container">
+        <h1 class="error-code">404</h1>
+      </div>
+
+      <p class="error-message">
+        Oops! The page you're searching for got lost in space.
+      </p>
+
+      <div class="search-container">
+        <input
+          type="text"
+          class="search-box"
+          placeholder="Search for pages..."
+          aria-label="Search"
+        />
+      </div>
+
+      <div class="buttons-container">
+        <a
+          href="https://dusmamaud.github.io/song/"
+          class="button primary-button"
+        >
+          <i class="fas fa-home"></i>
+          Back to Home
+        </a>
+        <a href="404.html" class="button secondary-button">
+          <i class="fas fa-envelope"></i>
+          Contact Support
+        </a>
+      </div>
+
+      <div class="developer-section">
+        <div class="profile-pic">
+          <img
+            src="https://dusprogram.github.io/dusgpt/assets/dus-pp.jpg"
+            alt="Developer Profile"
+            width="150"
+            height="150"
+          />
+        </div>
+        <h2 class="dev-name">John Doe</h2>
+        <p class="dev-title">Senior Full-Stack Developer</p>
+        <p class="dev-bio">
+          Passionate about creating immersive web experiences and solving
+          complex problems through elegant code solutions. Specializing in
+          modern web technologies and user-centric design.
+        </p>
+
+        <div class="social-links">
+          <a
+            href="https://github.com/beingdusmamud"
+            class="social-icon"
+            aria-label="GitHub"
+          >
+            <i class="fab fa-github fa-lg"></i>
+          </a>
+          <a
+            href="https://codepen.io/Dus-Mamud"
+            class="social-icon"
+            aria-label="LinkedIn"
+          >
+            <i class="fab fa-codepen fa-lg"></i>
+          </a>
+
+          <a
+            href="https://www.instagram.com/dvmx_19"
+            class="social-icon"
+            aria-label="Email"
+          >
+            <i class="fab fa-instagram fa-lg"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
